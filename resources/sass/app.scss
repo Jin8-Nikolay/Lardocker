@@ -1,0 +1,15 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+.todo-complete {
+    text-decoration: line-through;
+}
+.form-margin-r-b {
+    margin-right: 16.66666667%; margin-bottom: 20px
+}
